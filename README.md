@@ -15,27 +15,6 @@
 <p align="center"><a href="#功能">功能</a> · <a href="#实验功能">实验功能</a> · <a href="https://github.com/AbigBlackCat/Obsidian-Magical_Cube/releases">下载</a></p>
 
 
-<table>
-  <tr>
-    <td width="60%" align="center" valign="top">
-      <img
-        width="496"
-        alt="download"
-        src="https://github.com/user-attachments/assets/fae8ad72-5515-4b92-868b-1e526cfc7cfa"
-      />
-    </td>
-    <td width="40%" align="center" valign="top">
-      <img
-        width="320"
-        alt="image"
-        src="https://github.com/user-attachments/assets/411522b0-50d5-41eb-8eb3-475e1a11acb9"
-      />
-    </td>
-  </tr>
-</table>
-
-
-
 ---
 
 本人是飞书文档五年重度用户，爱它操作简单、功能齐全。
@@ -54,6 +33,27 @@
 <p align="center">
 <img width="1546" height="1080" alt="高清" src="https://github.com/user-attachments/assets/e77f01cf-ecd6-420f-9578-0b2b84ef4f7b" />
 </p>
+
+---
+
+<table>
+  <tr>
+    <td width="60%" align="center" valign="top">
+      <img
+        width="496"
+        alt="download"
+        src="https://github.com/user-attachments/assets/fae8ad72-5515-4b92-868b-1e526cfc7cfa"
+      />
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img
+        width="320"
+        alt="image"
+        src="https://github.com/user-attachments/assets/411522b0-50d5-41eb-8eb3-475e1a11acb9"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
