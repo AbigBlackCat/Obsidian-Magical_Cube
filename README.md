@@ -37,7 +37,14 @@ Magical Cube 是一款面向 **Obsidian 桌面端**的编辑插件。点击正�
 
 ## 许可与源码
 
-本组件参考了飞书笔记的toolbar，并非原创设计，仅作为Obsidian笔记的功能拓展分享使用。
+本组件结合多个开源工具，参考飞书笔记的toolbar，并非原创设计，仅作为Obsidian笔记的功能拓展分享使用。
+
+**基于如下优秀作品二次开发：** 
+飞书：用户提供页面和截图作为交互、排版参考；未复制飞书源代码、品牌图标或素材。
+With Keyline：块边界分析、插入规划和避让折叠按钮的定位算法。Copyright (c) 2026 Charlie，MIT；完整许可。
+Obsidian Notion Flow：表格网格选择、分栏编辑和渲染清理方式的实现参考。Copyright (c) 2026 Xin，MIT；完整许可。
+Slash Commander：参考命令分组、显隐与排序交互；未带入 React、Zustand 或通用命令树。
+Editing Toolbar / Note Toolbar：仅参考操作条及常用栏交互，未复制其 MPL / GPL 运行时代码。
 
 Magical Cube 原创设计部分采用 [MIT 许可](LICENSE)。
 
