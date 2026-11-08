@@ -14,9 +14,25 @@
 <p align="center"><strong>简体中文</strong> · <a href="README_en.md">English</a></p>
 <p align="center"><a href="#功能">功能</a> · <a href="#实验功能">实验功能</a> · <a href="https://github.com/AbigBlackCat/Obsidian-Magical_Cube/releases">下载</a></p>
 
-| 图1 | 图2 | 
-| <img width="496" height="191" alt="download" src="https://github.com/user-attachments/assets/fae8ad72-5515-4b92-868b-1e526cfc7cfa" />
- |  <img width="320" height="374" alt="image" src="https://github.com/user-attachments/assets/411522b0-50d5-41eb-8eb3-475e1a11acb9" />| 
+
+<table>
+  <tr>
+    <td width="60%" align="center" valign="top">
+      <img
+        width="496"
+        alt="download"
+        src="https://github.com/user-attachments/assets/fae8ad72-5515-4b92-868b-1e526cfc7cfa"
+      />
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img
+        width="320"
+        alt="image"
+        src="https://github.com/user-attachments/assets/411522b0-50d5-41eb-8eb3-475e1a11acb9"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
