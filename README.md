@@ -16,9 +16,15 @@
 
 ---
 
-Magical Cube 是一款面向 **Obsidian 桌面端**的编辑插件。点击正文行旁的 `+`，或按下 `⌘/Ctrl + Shift + Space`，即可打开插入面板：添加常用内容块、链接笔记，或插入已有的 Home 卡片与 Magical Cards 模块。
+本人是飞书文档五年用户，爱它操作简单而又功能齐全。
 
-默认启用 **Easy mode**，让你直接编辑渲染后的内容；也可切换至 **God mode**，保留熟悉的 Markdown 编辑体验。
+使得同样基于md语法解析的笔记容易操作的最大原因是它的toolbar
+
+现在这个功能 通过Magical Cube承载，来到**Obsidian 桌面端**
+
+点击正文行旁的 `+`，即可打开插入面板：不再需要熟悉markdown语法，即使是obsidian新手，也能快速编辑出美观的笔记。
+
+默认启用 **Easy mode**，让你直接编辑渲染后的内容；如果你喜爱纯键盘操作，也可切换至 **God mode**，保留熟悉的 Markdown 编辑体验。
 
 ## 功能
 
@@ -33,7 +39,9 @@ Magical Cube 是一款面向 **Obsidian 桌面端**的编辑插件。点击正�
 
 
 
-作者：[AbigBlackCat](https://github.com/AbigBlackCat) · 如果 Magical Cube 对你有帮助，可以通过 [Ko-fi](https://ko-fi.com/ffbarry) 支持后续开发。
+作者：[AbigBlackCat](https://github.com/AbigBlackCat) 
+
+如果 Magical Cube 对你有帮助，可以通过 [Ko-fi](https://ko-fi.com/ffbarry) 支持后续开发。
 
 ## 许可与源码
 
