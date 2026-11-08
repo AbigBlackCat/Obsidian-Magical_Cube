@@ -1,0 +1,7 @@
+main.js
+styles.css
+*.map
+.DS_Store
+node_modules/
+dist/
+.local-release/
