@@ -30,7 +30,7 @@
 
 
 <p align="center">
-<img width="686" height="480" alt="Recording_2026_11_8_21_37_27" src="https://github.com/user-attachments/assets/17e54526-be68-4ef9-aaae-4ef5fc1bf0ff" />
+<img width="1546" height="1080" alt="高清" src="https://github.com/user-attachments/assets/e77f01cf-ecd6-420f-9578-0b2b84ef4f7b" />
 </p>
 
 
