@@ -6,7 +6,7 @@
 <p align="center">让内容块与卡片，自然融入 Obsidian 写作。</p>
 
 <p align="center">
-  <a href="https://github.com/AbigBlackCat/Obsidian-Magical_Cube/releases"><img src="https://img.shields.io/badge/version-0.3.2-3b82f6" alt="Version 0.3.2" /></a>
+  <a href="https://github.com/AbigBlackCat/Obsidian-Magical_Cube/releases"><img src="https://img.shields.io/badge/version-0.3.3-3b82f6" alt="Version 0.3.3" /></a>
   <img src="https://img.shields.io/badge/Obsidian-1.13.7%2B-7c3aed" alt="Obsidian 1.13.7 or later" />
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-64748b" alt="MIT license" /></a>
 </p>
