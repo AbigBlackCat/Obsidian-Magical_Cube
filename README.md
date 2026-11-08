@@ -6,13 +6,13 @@
 <p align="center">让内容块与卡片，自然融入 Obsidian 写作。</p>
 
 <p align="center">
-  <a href="https://github.com/AbigBlackCat/Obsidian-Magical_Cube/releases"><img src="https://img.shields.io/badge/version-0.3.1-3b82f6" alt="Version 0.3.1" /></a>
+  <a href="https://github.com/AbigBlackCat/Obsidian-Magical_Cube/releases"><img src="https://img.shields.io/badge/version-0.3.2-3b82f6" alt="Version 0.3.2" /></a>
   <img src="https://img.shields.io/badge/Obsidian-1.13.7%2B-7c3aed" alt="Obsidian 1.13.7 or later" />
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-64748b" alt="MIT license" /></a>
 </p>
 
 <p align="center"><strong>简体中文</strong> · <a href="README_en.md">English</a></p>
-<p align="center"><a href="#功能">功能</a> · <a href="#快速开始">快速开始</a> · <a href="#安装与更新">安装与更新</a> · <a href="#编辑模式">编辑模式</a> · <a href="https://github.com/AbigBlackCat/Obsidian-Magical_Cube/releases">下载</a></p>
+<p align="center"><a href="#功能">功能</a> · <a href="#实验功能">实验功能</a> · <a href="https://github.com/AbigBlackCat/Obsidian-Magical_Cube/releases">下载</a></p>
 
 ---
 
@@ -31,13 +31,17 @@
 | 功能 | 可以做什么 |
 | --- | --- |
 | 内容块插入 | 插入高亮块、引用、代码和原生 Markdown 表格；高亮块可调整文字、边框、背景与图标。 |
-| 灵活分栏 | 创建 2–5 栏，拖动分隔线调整宽度，单独编辑列内容；窄面板中自动纵向排列。 |
+| 灵活分栏 | 创建 2–5 栏，可编辑整体标题并设置左／中／右对齐，随笔记保存；支持拖动调宽、单独编辑，窄面板中自动纵向排列。 |
 | 划词工具条 | 选中文字即可设置格式、颜色、链接、对齐与缩进，或添加本地评论。 |
 | 笔记链接 | 按标题、路径或别名搜索同库笔记，插入原生双链，沿用反向链接与重命名更新。 |
-| 卡片连接 | 在正文中使用已有 Home 卡片与 Magical Cards 模块，沿用各自的渲染器与数据。 |
-| 常用卡片栏 | 固定常用功能、卡片和模块，调整显示名称与顺序；支持功能显隐和来源筛选。 |
+| 卡片连接（实验功能） | 默认关闭。在「关于 → 实验功能」中启用 Home / Magical Cards 连接；需兼容配套插件，等待进一步开发。 |
+| 常用卡片栏 | 固定常用功能，以及已启用连接的卡片和模块，调整显示名称与顺序；支持功能显隐和来源筛选。 |
 
+## 实验功能
 
+Home 与 Magical Cards 的开关仅位于**设置 → Magical Cube → 关于 → 实验功能**，默认关闭。两项均需配合具备兼容 API 的对应插件使用，普通公开版本未必包含所需接口，目前等待进一步开发。
+
+关闭连接会隐藏相关入口，保留已有笔记、卡片资料和固定配置；基础内容块可以独立使用。
 
 作者：[AbigBlackCat](https://github.com/AbigBlackCat) 
 
