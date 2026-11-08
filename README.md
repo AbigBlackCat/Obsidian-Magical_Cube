@@ -74,6 +74,22 @@ Home 与 Magical Cards 的开关仅位于**设置 → Magical Cube → 关于 �
 
 关闭连接会隐藏相关入口，保留已有笔记、卡片资料和固定配置；基础内容块可以独立使用。
 
+## English quick start
+
+Magical Cube is a desktop Obsidian editing plugin for inserting content blocks, formatting selected text, and arranging content in 2–5 columns. Requires Obsidian 1.13.7 or later.
+
+### Installation
+
+1. Download `main.js`, `manifest.json`, and `styles.css` from the [latest release](https://github.com/AbigBlackCat/Obsidian-Magical_Cube/releases/latest).
+2. Place all three files in your vault's `.obsidian/plugins/magical-cube/` folder. Keep your existing `data.json` when updating.
+3. Restart Obsidian, enable **Magical Cube** under **Settings → Community plugins**, and open a note in **Live Preview**.
+
+### Usage
+
+1. Click the `+` beside a line, or press `⌘/Ctrl + Shift + Space`, to open the insertion panel. Choose a highlight block, quote, code block, or Markdown table and start editing.
+2. Choose **分栏 (Columns)** to create a layout with 2–5 columns. Edit each column directly and drag its dividers to change widths.
+3. Select text to open the selection toolbar, then change formatting, text colors, background colors, or links.
+
 作者：[AbigBlackCat](https://github.com/AbigBlackCat) 
 
 如果 Magical Cube 对你有帮助，可以通过 [Ko-fi](https://ko-fi.com/ffbarry) 支持后续开发。
