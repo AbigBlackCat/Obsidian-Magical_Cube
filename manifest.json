@@ -1,7 +1,7 @@
 {
   "id": "magical-cube",
   "name": "Magical Cube",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "minAppVersion": "1.13.7",
   "description": "Insert content blocks and note links, format selected text, and customize column layouts.",
   "author": "AbigBlackCat",
