@@ -16,15 +16,24 @@
 
 ---
 
-本人是飞书文档五年用户，爱它操作简单而又功能齐全。
+本人是飞书文档五年重度用户，爱它操作简单、功能齐全。
 
-使得同样基于md语法解析的笔记容易操作的最大原因是它的toolbar
+因此即使它是偏向于团队合作的办公文档，我也长期用它写日常感想，做学术笔记。
 
-现在这个功能 通过Magical Cube承载，来到**Obsidian 桌面端**
+飞书文档里，我最爱的功能就是悬浮在每一行的小加号，它提供了日常编辑所需的绝大部分操作工具。 
+
+为了还原无需学习markdown语法，丝滑编辑笔记的方式，magical cube 承载着这个小加号，来到了Obsidian。
 
 点击正文行旁的 `+`，即可打开插入面板：不再需要熟悉markdown语法，即使是obsidian新手，也能快速编辑出美观的笔记。
 
-默认启用 **Easy mode**，让你直接编辑渲染后的内容；如果你喜爱纯键盘操作，也可切换至 **God mode**，保留熟悉的 Markdown 编辑体验。
+除此之外，还有正文编辑的工具，欢迎你亲自使用探索～
+
+
+<p align="center">
+<img width="686" height="480" alt="Recording_2026_11_8_21_37_27" src="https://github.com/user-attachments/assets/17e54526-be68-4ef9-aaae-4ef5fc1bf0ff" />
+</p>
+
+
 
 ## 功能
 
@@ -55,9 +64,8 @@ Home 与 Magical Cards 的开关仅位于**设置 → Magical Cube → 关于 �
 飞书：用户提供页面和截图作为交互、排版参考；未复制飞书源代码、品牌图标或素材。
 With Keyline：块边界分析、插入规划和避让折叠按钮的定位算法。Copyright (c) 2026 Charlie，MIT；完整许可。
 Obsidian Notion Flow：表格网格选择、分栏编辑和渲染清理方式的实现参考。Copyright (c) 2026 Xin，MIT；完整许可。
-Slash Commander：参考命令分组、显隐与排序交互；未带入 React、Zustand 或通用命令树。
-Editing Toolbar / Note Toolbar：仅参考操作条及常用栏交互，未复制其 MPL / GPL 运行时代码。
-
+Slash Commander：参考命令分组、显隐与排序交互；
+Editing Toolbar / Note Toolbar：仅参考操作条及常用栏交互
 Magical Cube 原创设计部分采用 [MIT 许可](LICENSE)。
 
 **本仓库用于发布文档与构建后的插件安装包。开发源码保存在私有仓库，目前未公开。** 
